@@ -10,3 +10,4 @@ out/
 *.iws
 *.jar
 *.class
+.DS_Store
